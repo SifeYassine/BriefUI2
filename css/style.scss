@@ -602,6 +602,9 @@ body.light-mode {
     img.Settings {
       filter: $secondFilter;
     }
+    .newp {
+      color: #29292c !important;
+    }
   }
 
   @media screen and (max-width: 768px) {

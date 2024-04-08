@@ -474,6 +474,9 @@ body.light-mode .nav-list a {
 body.light-mode header img.Settings {
   filter: invert(84%) sepia(3%) saturate(167%) hue-rotate(202deg) brightness(112%) contrast(85%);
 }
+body.light-mode header .newp {
+  color: #29292c !important;
+}
 @media screen and (max-width: 768px) {
   body.light-mode .mobile-header {
     z-index: 10;
